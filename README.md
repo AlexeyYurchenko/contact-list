@@ -28,6 +28,6 @@
 - "docker compose up"
 - После успешнго завершения сборки контейнера можно запустить приложение.
 - Приложение будет доступно по адресу http://localhost:8080/index
-  <img alt="Снимок экрана (3).png" height="100" src="util%2F%D1%ED%E8%EC%EE%EA%20%FD%EA%F0%E0%ED%E0%20%283%29.png" width="100"/>
-  <img alt="Снимок экрана (4).png" src="util%2F%D1%ED%E8%EC%EE%EA%20%FD%EA%F0%E0%ED%E0%20%284%29.png"/>
-  <img alt="Снимок экрана (5).png" src="util%2F%D1%ED%E8%EC%EE%EA%20%FD%EA%F0%E0%ED%E0%20%285%29.png"/>
+  <img alt="1.png" height="270" src="1.png" title="New Contact" width="480"/>
+  <img alt="2.png" height="270" src="2.png" width="480"/>
+  <img alt="3.png" height="270" src="3.png" width="480"/>
